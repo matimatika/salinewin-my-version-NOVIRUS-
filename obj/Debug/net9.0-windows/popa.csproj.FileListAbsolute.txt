@@ -1,0 +1,14 @@
+C:\XZ\obj\Debug\net9.0-windows\popa.GeneratedMSBuildEditorConfig.editorconfig
+C:\XZ\obj\Debug\net9.0-windows\popa.AssemblyInfoInputs.cache
+C:\XZ\obj\Debug\net9.0-windows\popa.AssemblyInfo.cs
+C:\XZ\obj\Debug\net9.0-windows\popa.csproj.CoreCompileInputs.cache
+C:\XZ\bin\Debug\net9.0-windows\popa.exe
+C:\XZ\bin\Debug\net9.0-windows\popa.deps.json
+C:\XZ\bin\Debug\net9.0-windows\popa.runtimeconfig.json
+C:\XZ\bin\Debug\net9.0-windows\popa.dll
+C:\XZ\bin\Debug\net9.0-windows\popa.pdb
+C:\XZ\obj\Debug\net9.0-windows\popa.dll
+C:\XZ\obj\Debug\net9.0-windows\refint\popa.dll
+C:\XZ\obj\Debug\net9.0-windows\popa.pdb
+C:\XZ\obj\Debug\net9.0-windows\popa.genruntimeconfig.cache
+C:\XZ\obj\Debug\net9.0-windows\ref\popa.dll

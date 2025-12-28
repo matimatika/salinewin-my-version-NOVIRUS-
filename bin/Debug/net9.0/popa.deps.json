@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "popa/1.0.0": {
+        "dependencies": {
+          "System.Windows.Extensions": "10.0.1"
+        },
+        "runtime": {
+          "popa.dll": {}
+        }
+      },
+      "System.Windows.Extensions/10.0.1": {
+        "runtime": {
+          "lib/net9.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.125.57005"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.125.57005"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "popa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Extensions/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NkxuY2TrVVZJYbdNzoYyTXjkp6T6ZZ/HrObEBTRzJxwTKTvVJEgbF4vSthBNZR3UKaKx79c7+1k83KhjxxVeWg==",
+      "path": "system.windows.extensions/10.0.1",
+      "hashPath": "system.windows.extensions.10.0.1.nupkg.sha512"
+    }
+  }
+}
